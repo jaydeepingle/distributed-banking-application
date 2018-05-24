@@ -35,10 +35,10 @@ This class is being used for recording state of each class</br>
 ```$make```</br>
 - It will compile all the files including the above files plus the thrift generated files using the libraries.</br>
 
-```$.branch.sh <branch-name> <port-number>```</br>
+```$./branch.sh <branch-name> <port-number>```</br>
 - This way we can start a branch on a specified port</br>
 
-```$controller.sh <amount> <filename> ```</br>
+```$./controller.sh <amount> <filename> ```</br>
 - Makes use of amount to distibute evenly amon the branches. The branch info is being read from the filename</br>
 --------------------------------------------------------------------------------------------
 
