@@ -1,12 +1,3 @@
---------------------------------
-**Author**
-- Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Jaydeep Ingle</br>
-- Email-ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: jingle1@binghamton.edu</br>
-- Project2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: GLobal Snapshots of a banking application</br>
-- CS557&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Introduction to Distributed Systems</br>
-- Dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: jingle1-project1</br>
-
---------------------------------------------------------------------------------------------
 **Description:**
 - ```BranchServer.java```</br>
 This class makes use of BranchHandler class and starts serving the other branches</br>
@@ -41,4 +32,3 @@ This class is being used for recording state of each class</br>
 ```$./controller.sh <amount> <filename> ```</br>
 - Makes use of amount to distibute evenly amon the branches. The branch info is being read from the filename</br>
 --------------------------------------------------------------------------------------------
-
